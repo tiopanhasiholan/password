@@ -41,6 +41,6 @@ has_special = input("Do you want to include special characters? (y/n): ").lower(
 
 pwd = generate_passwor(min_length, has_number, has_special)
 
-print(f"Generated password: {pwd}")
+print(f" This is the generated password: {pwd}")
 
 
